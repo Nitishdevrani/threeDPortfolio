@@ -1,0 +1,13 @@
+
+.DominantDiv{
+  margin: 0;
+  height: 80vh;
+  width: 5vw;
+  background: linear-gradient(148deg, black,deeppink);
+}
+
+ ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

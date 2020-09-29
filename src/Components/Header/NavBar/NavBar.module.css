@@ -1,0 +1,8 @@
+.FluidBar {
+  width: 100vw;
+  height: 20vh;
+  background: linear-gradient(75deg, black 80%, silver 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.fluidName {
+  margin-right: 100px;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  width: 60vw;
+  font-size: 1rem;
+  letter-spacing: 1rem;
+}

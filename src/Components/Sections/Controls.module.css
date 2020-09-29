@@ -1,0 +1,38 @@
+.ControlBox{
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+}
+
+.HomeBox{
+  width: 95vw;
+  height: 80vh;
+  background-color: blueviolet;
+}
+.ProjectsBox{
+  width: 95vw;
+  height: 80vh;
+  background-color: brown;
+}
+
+.TechBox{
+  width: 95vw;
+  height: 80vh;
+  background-color: green;
+}
+
+.PricingBox{
+  width: 95vw;
+  height: 80vh;
+  background-color: lightblue;
+}
+
+.ContactBox{
+  width: 95vw;
+  height: 80vh;
+  background-color: chocolate;
+}
+
+.Invisible{
+  display: none;
+}
